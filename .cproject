@@ -90,7 +90,7 @@
 						<entry excluding="CMSIS/Device/ST/STM32F4xx/Source|CMSIS/DSP/DSP_Lib_TestSuite|CMSIS/DSP/DSP_Lib_TestSuite/Common/platform/system_ARMSC300.c|CMSIS/DSP/DSP_Lib_TestSuite/Common/platform/system_ARMSC000.c|CMSIS/DSP/DSP_Lib_TestSuite/Common/platform/startup_generic.S" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Drivers"/>
 						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Inc"/>
 						<entry excluding="Third_Party/FatFs/option/unicode.c|Third_Party/FatFs/option/ccsbcs.c|Third_Party/FatFs/option/cc950.c|Third_Party/FatFs/option/cc949.c|Third_Party/FatFs/option/cc936.c" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Middlewares"/>
-						<entry excluding="sysmem.c|syscalls.c" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Src"/>
+						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Src"/>
 						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Startup"/>
 					</sourceEntries>
 				</configuration>
